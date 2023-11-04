@@ -38,6 +38,14 @@ Example for loading image from path, from native library (shared) or from data (
    
    `dotnet publish -c Release -r linux-x64 --self-contained`
 
+   Copy data from aoutput ( `bin/Release/net8.0/linux-x64` ) directory to native directory:
+   
+   It looks like that:
+
+   ![image](https://github.com/DeafMan1983/TestLoadingImageFromAnything/assets/57066679/734e1e1a-18d1-4369-9721-20b06372a052)
+
+   Click `TestEmbedResources`
+
 
 That is all for C# and loading from native library ( shared )
 
