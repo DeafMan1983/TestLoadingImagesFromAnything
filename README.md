@@ -22,7 +22,7 @@ Example for loading image from path, from native library (shared) or from data (
 
 
 2. Compile with **TestEmbedResources**:
-3. 
+ 
    Change directory to `TestEmbedResources`:
    ```
    cd ../../../../../../TestEmbedResources/data
