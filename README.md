@@ -42,7 +42,7 @@ That is all for C# and loading from native library ( shared )
 
 I would like to say thank you for understanding and caring my idea!
 
-If you want to spend any money - Sorry I use only Crypto! Don't worry about bad memory! It is seriously! Please note me if you already send me via crypto ( TRX or MATIC ) then you send me email jenspetereckervogt[at]gmail[dot}com - Thank you!
+If you want to spend any money - Sorry I use only Crypto! Don't worry about bad memory! It is seriously! Please note me if you already send me via crypto ( TRX or MATIC ) then you send your proof me email jenspetereckervogt[at]gmail[dot}com - Thank you!
 
 MATIC ( Polygon ): `0x017a8d27d8c3cb7f8b7bc901f74d10fc2eb59e57`
 
