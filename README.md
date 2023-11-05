@@ -18,7 +18,7 @@ Example for loading image from path, from native library (shared) or from data (
    
    Copy `TestEmbedLibrary.so` to `data` directory:
    
-   `copy TestEmbedLibrary.so ../../../../../../TestEmbedResources/data`
+   `copy TestEmbedLibrary.so ../../../../../../TestEmbedResources`
 
 
 2. Compile with **TestEmbedResources**:
