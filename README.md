@@ -18,14 +18,14 @@ Example for loading image from path, from native library (shared) or from data (
    
    Copy `TestEmbedLibrary.so` to `data` directory:
    
-   `copy TestEmbedLibrary.so ../../../../../../TestEmbedResources`
+   `copy TestEmbedLibrary.so ../../../../../../TestEmbedResources/data`
 
 
 2. Compile with **TestEmbedResources**:
  
    Change directory to `TestEmbedResources`:
    ```
-   cd ../../../../../../TestEmbedResources/data
+   cd ../../../../../../TestEmbedResources
    dotnet build -c Release
    dotnet run -c Release
    ```
